@@ -4,7 +4,7 @@
 **Environment:** Local Ubuntu Server 26.04.1 LTS VM in VirtualBox  
 **Access:** SSH from Windows Terminal  
 **Scope:** Guided personal lab; no production systems or cloud resources  
-**Study time:** ___
+**Study time:** 2 hours
 
 ## Objective
 
